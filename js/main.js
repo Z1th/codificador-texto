@@ -1,5 +1,4 @@
 function rellenarTexto() {
-  console.log("Me han llamado!");
   var textoIngresado = document.getElementById("entradaTextArea").value;
 
   if (textoIngresado != "") {

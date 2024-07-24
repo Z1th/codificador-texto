@@ -11,3 +11,7 @@ Lista de tecnologías usadas en este Proyecto
 * [CSS]
 * [Javascript]
 * [Bootstrap]
+
+***
+> ¡Me descubriste, aún sigo trabajando en el readme!
+![Working hard!](/assets/images/working-hard.gif)
