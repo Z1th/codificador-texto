@@ -14,4 +14,4 @@ Lista de tecnologías usadas en este Proyecto
 
 ***
 > ¡Me descubriste, aún sigo trabajando en el readme!
-![Working hard!](/assets/images/working-hard.gif)
+![Working hard!](./img/working-hard.gif)
