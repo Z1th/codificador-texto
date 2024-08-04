@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Z1th/codificador-texto">
-    <img src="img/logo-proyecto.svg" alt="Logo" width="80" height="80">
+    <img style="border-radius:50%" src="img/logo-proyecto.svg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Codificador de Texto</h3>
