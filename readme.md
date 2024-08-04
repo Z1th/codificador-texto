@@ -57,7 +57,7 @@ Este proyecto no requiere instalación especial ya que utiliza únicamente HTML,
    ```bash
    code .
 
-### Tecnologías Usadas
+## Tecnologías Usadas
 - **HTML5**
 - **CSS3**
 - **Bootstrap 3.3**
