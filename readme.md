@@ -57,7 +57,6 @@ Este proyecto no requiere instalación especial ya que utiliza únicamente HTML,
    ```bash
    code .
 
-
 ### Tecnologías Usadas
 - **HTML5**
 - **CSS3**
