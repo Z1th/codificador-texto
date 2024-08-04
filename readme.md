@@ -41,6 +41,22 @@ Este proyecto es una aplicación web desarrollada en JavaScript que permite encr
 
 - **Copiado de Texto**: Los usuarios pueden copiar fácilmente el texto encriptado o desencriptado al portapapeles con un solo clic.
 
+## Instalación
+
+Este proyecto no requiere instalación especial ya que utiliza únicamente HTML, CSS, Bootstrap y JavaScript. Para ejecutar el proyecto, sigue estos pasos:
+
+1. **Clona el repositorio**: 
+   ```bash
+   git clone https://github.com/Z1th/codificador-texto
+
+2. **Navega al directorio del proyecto**: 
+   ```bash
+   cd tu-ruta/codificador-texto
+
+3. **Abre el proyecto**: 
+   ```bash
+   code .
+
 
 ### Tecnologías Usadas
 - **HTML5**
